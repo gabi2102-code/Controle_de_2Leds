@@ -21,15 +21,7 @@ LED 2 conectado ao pino digital 13;
 Resistor de 10 kΩ para o botão (pull-down);
 Resistores de 220 Ω para proteção dos LEDs.
 Materiais Necessários
-Quantidade	Componente
-1	Arduino UNO
-1	Cabo USB
-1	Protoboard
-2	Resistores de 220 Ω
-1	Resistor de 10 kΩ
-1	Botão de pressão
-2	LEDs de 5 mm
-—	Fios jumper macho-macho
+
 Objetivo
 
 Demonstrar o uso de estruturas condicionais e variáveis de controle no Arduino, permitindo alternar entre diferentes estados dos LEDs por meio de um único botão.
