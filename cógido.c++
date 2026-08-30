@@ -17,7 +17,7 @@ void loop() {
 
     if (estado == 4) {
       estado = 1;
-    }z
+    }
 
     while (digitalRead(btn) == HIGH) {
     }
